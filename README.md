@@ -21,7 +21,7 @@ Página estática criada para divulgação da IMOBILIÁRIA SANTOS
 * Este Projeto é licenciado sob a Licença MIT
 
 ## Autor
-**Eduardo R. L. dos Santos**
+**Eduardo Santos**
   * Linkedin: https://www.linkedin.com/in/eduardo-r-l-santos
   * Github: https://github.com/Dudu-Santos/
   * E-mail: eduardorlsantos@gmail.com
