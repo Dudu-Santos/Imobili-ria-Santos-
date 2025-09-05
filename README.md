@@ -2,7 +2,11 @@
 Página criada para divulgação da IMOBILIÁRIA SANTOS 
 
 ## Funcionalidades
-
+* Menu com 4 links
+ * SOBRE
+ * SERVIÇOS
+ * CORRETORES
+ * CONTATO 
 
 ## Tecnologias Utilizadas
 * HTML
