@@ -1,12 +1,12 @@
 # Projeto Imobiliária Santos
-Página criada para divulgação da IMOBILIÁRIA SANTOS 
+Página estática criada para divulgação da IMOBILIÁRIA SANTOS 
 
 ## Funcionalidades
-* Menu com 4 links
- * SOBRE
- * SERVIÇOS
- * CORRETORES
- * CONTATO 
+* Menu com 4 links para seções da página
+  * SOBRE
+  * SERVIÇOS
+  * CORRETORES
+  * CONTATO 
 
 ## Tecnologias Utilizadas
 * HTML
