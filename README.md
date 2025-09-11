@@ -2,11 +2,7 @@
 Página estática criada para divulgação da IMOBILIÁRIA SANTOS 
 
 ## Funcionalidades
-* Menu com 4 links para seções da própria página
-  * SOBRE
-  * SERVIÇOS
-  * CORRETORES
-  * CONTATO 
+* Links para os setores SOBRE, SERVIÇOS, CORRETORES e CONTATO na página principal
 
 ## Tecnologias Utilizadas
 * HTML
